@@ -271,6 +271,7 @@ body.locked .shieldDialog .ui-dialog-titlebar-close {
 	border-radius: 0.3em;
 	padding: 0.3em;
 	margin-bottom: 0.5em;
+
 }
 
 .shieldGroup:last-child {
@@ -536,6 +537,24 @@ body.locked .shieldDialog .ui-dialog-titlebar-close {
 	width: 50%;
 	margin: 0;
 }
+
+/* KCCU widget */
+
+#sh_kccu .shieldGroup {
+	line-height: 2.6em;
+}
+
+#sh_kccu .buttonDuoLine {
+	padding-top: 0.1em;
+}
+
+#sh_kccu button {
+	padding-left: 0.5em;
+	padding-right: 0.5em;
+	min-width: 5em;
+	height: 2.5em;
+}
+
 
 /* ECAM widget */
 
