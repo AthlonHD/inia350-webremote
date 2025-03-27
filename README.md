@@ -1,5 +1,7 @@
 # WebRemote for Inibuilds's A350
 
+[临时写的中文版使用方式](https://github.com/AthlonHD/inia350-webremote/blob/main/README_CN.md)
+
 ## Introduction
 
 WebRemote for Inibuilds A350 is a customizable **browser-based remote control** modified from original repo for [Inibuilds A350](https://inibuilds.com). 
